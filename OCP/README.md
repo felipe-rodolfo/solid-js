@@ -1,0 +1,1 @@
+ Imagine that you need to add a new type of shipping to the online store system, such as "Express Delivery." How would you apply the Open-Closed Principle to allow the addition of this new type of shipping without modifying the existing code? Consider the solution and how you could extend the behavior of calculating shipping fees.
