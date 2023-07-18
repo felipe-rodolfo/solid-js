@@ -1,0 +1,1 @@
+Imagine that you are developing a task management system. Think about the necessary dependencies for this system, such as TaskStorage and TaskNotifier. Consider how you could apply the Dependency Inversion Principle (DIP) to allow for greater flexibility and extensibility. Think about suitable abstractions and how high-level classes can depend on them.
