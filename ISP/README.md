@@ -1,0 +1,1 @@
+Imagine you are developing an online payment system. Think about the necessary interfaces for the system, such as PaymentOnline, PaymentCreditCard, and PaymentPayPal. Consider how you could divide the interfaces to properly follow the Interface Segregation Principle (ISP). Think about the necessary methods for each interface and which classes could implement them.
